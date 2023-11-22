@@ -1,0 +1,24 @@
+Dell
+4
+Latitude 1000
+Inspiron 750
+XPS 2000
+G15 3000
+Lenovo
+3
+ThinkPad 1200
+IdeaPad 1100
+Yoga 1600
+HP
+2
+ProBook 1300
+Envy 1000
+Apple
+2
+MacBookPro 3000
+MacBookAir 2700
+Asus
+3
+X515A 1200
+ZenBook 1500
+ExpertBook 1700

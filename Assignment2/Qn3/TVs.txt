@@ -1,0 +1,10 @@
+101 TCL U8H
+102 LG G2 FHD
+103 Samsung S95B LCD
+104 Sony A95K LCD
+105 Apple LCD 2020
+106 TCL 6 Series
+107 Samsung The Frame
+108 Sony XR X90K
+109 Apple TV
+110 Zen X1000
